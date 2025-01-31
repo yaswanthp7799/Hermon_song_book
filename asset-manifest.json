@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hermon_song_book/static/css/main.9410df0b.css",
+    "main.js": "/Hermon_song_book/static/js/main.a8209ddd.js",
+    "index.html": "/Hermon_song_book/index.html",
+    "main.9410df0b.css.map": "/Hermon_song_book/static/css/main.9410df0b.css.map",
+    "main.a8209ddd.js.map": "/Hermon_song_book/static/js/main.a8209ddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9410df0b.css",
+    "static/js/main.a8209ddd.js"
+  ]
+}
